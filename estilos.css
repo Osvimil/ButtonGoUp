@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    
+}
+
+.contenido{
+    text-align: justify;
+    width:500px;
+    margin:20px auto;
+}
+.contenido p{
+    margin-bottom:1em;
+}
+
+.ir-arriba{
+    display: none;
+    padding:20px;
+    background-color: #eee;
+    position:fixed;
+    bottom:0;
+    right:0;
+    color:crimson;
+    text-align: center;
+    font-size: 40px;
+    cursor: pointer;
+}
